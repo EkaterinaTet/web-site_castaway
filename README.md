@@ -24,3 +24,7 @@
 ## [Страница проекта на GitHubPages](https://ekaterinatet.github.io/web-site_castaway/)
 
 ## [Макет в Figma](https://www.figma.com/file/Fn88HQzfmrE7xCHG0yPsEW/Castaway?type=design&node-id=0-1&mode=design&t=kRazldeD3GWkATKi-0)
+
+<p align="center">
+  <img width="250" height="800" src="https://github.com/EkaterinaTet/web-site_castaway/blob/main/web-site-castaway.png">
+</p>
